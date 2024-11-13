@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import servicesImage from "../../assets/services_image.png";
-import examPreparationImage from "../../assets/exam_image.JPG";
+import examPreparationImage from "../../assets/exam_image.jpg";
 import Navbar from "../navbar/navbar.component.jsx";
 // import community_development from "../../assets/community_development.png";
 // import environmental_sustainability from "../../assets/environmental_sustainability.png";

@@ -1,8 +1,8 @@
-import servicesImage from "../../assets/social_enterprise_image.JPG";
-import servicesImage_1 from "../../assets/social_enterprise_image-1.JPG";
-// import servicesImage_2 from "../../assets/social_enterprise_image-2.JPG";
-// import servicesImage_3 from "../../assets/social_enterprise_image-3.JPG";
-// import servicesImage_4 from "../../assets/social_enterprise_image-4.JPG";
+import servicesImage from "../../assets/social_enterprise_image.jpg";
+import servicesImage_1 from "../../assets/social_enterprise_image-1.jpg";
+// import servicesImage_2 from "../../assets/social_enterprise_image-2.jpg";
+// import servicesImage_3 from "../../assets/social_enterprise_image-3.jpg";
+// import servicesImage_4 from "../../assets/social_enterprise_image-4.jpg";
 import Navbar from "../navbar/navbar.component.jsx";
 import donation_clothes from "../../assets/food.jpg";
 import donation_tuition from "../../assets/tuion.jpg";
