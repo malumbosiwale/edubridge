@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
-import servicesImage_5 from "../../../assets/social_enterprise_image-5.JPG";
-import servicesImage_6 from "../../../assets/social_enterprise_image-6.JPG";
+import servicesImage_5 from "../../../assets/social_enterprise_image-5.jpg";
+import servicesImage_6 from "../../../assets/social_enterprise_image-6.jpg";
 
 export default function SocialResponsibilityComponent() {
     // Define animation variants
